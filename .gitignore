@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb
+
+# Data & outputs
+data/*
+outputs/*
+
+# macOS
+.DS_Store
