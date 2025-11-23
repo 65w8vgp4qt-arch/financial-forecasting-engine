@@ -1,7 +1,4 @@
-Perfect — here is a professional, investor-grade, recruiter-optimized GitHub README for your ASML valuation project.
-You can copy-paste this directly into your README.md file.
 
-⸻
 
 📈 ASML Valuation Engine — Monte Carlo DCF, Forecasting & Dashboard
 
@@ -70,7 +67,7 @@ A polished Tableau Public dashboard showing:
 	•	Median intrinsic value
 	•	EV distribution
 
-🔗 Dashboard link: (Add your Tableau link here)
+🔗 Dashboard link: https://public.tableau.com/views/Book1_17639065758270/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ⸻
 
@@ -110,7 +107,7 @@ Monte Carlo Valuation Summary
 
 Investment View
 
-ASML appears undervalued, with strong upside potential driven by:
+ASML appears Fairlyvalued, with strong upside potential driven by:
 	•	Dominance in EUV lithography
 	•	High switching costs
 	•	Long-term semiconductor demand drivers
